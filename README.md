@@ -1,1 +1,1 @@
-# reaperbot.ga
+# https://www.reaperbot.ga
