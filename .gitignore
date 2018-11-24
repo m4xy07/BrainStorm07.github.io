@@ -1,4 +1,5 @@
 *.html
+
 # Logs
 logs
 *.log
@@ -60,9 +61,6 @@ typings/
 
 # next.js build output
 .next
-
-# htmls
-.html
 
 # index
 index.html
